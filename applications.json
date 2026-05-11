@@ -9848,7 +9848,7 @@
             "title": "PoofOnClose",
             "icon_url": "",
             "screenshots": [],
-            "official_site": "",
+            "official_site": "https://github.com/stridentsoundworks-spec/PoofOnClose",
             "languages": [
                 "swift"
             ]
