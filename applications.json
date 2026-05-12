@@ -9837,6 +9837,21 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "A macOS menu bar utility that plays a cartoon cloud-burst particle animation whenever a window closes — inspired by the classic Mac OS X poof effect.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/stridentsoundworks-spec/PoofOnClose",
+            "title": "PoofOnClose",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/stridentsoundworks-spec/PoofOnClose",
+            "languages": [
+                "swift"
+            ]
         }
 
     ]
